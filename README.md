@@ -5,6 +5,7 @@ A library for diffing golang structures and values.
 Utilizing field tags and reflection, it is able to compare two structures of the same type and create a changelog of all modified values. The produced changelog can easily be serialized to json.
 
 NOTE: All active development now takes place on the v2 branch.
+
 NOTE: This is a fork of r3labs diff, for exporting Parent on Change Struct
 
 ## Installation
