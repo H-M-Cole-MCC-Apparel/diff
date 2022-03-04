@@ -16,7 +16,3 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
-
-replace github.com/r3labs/diff v1.1.0 => github.com/H-M-Cole-MCC-Apparel/diff v1.1.0
-
-replace github.com/r3labs/diff/v2 v2.15.0 => github.com/H-M-Cole-MCC-Apparel/diff/v2 v2.15.0
