@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/r3labs/diff/v2"
+	"github.com/H-M-Cole-MCC-Apparel/diff/v2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
