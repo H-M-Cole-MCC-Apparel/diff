@@ -1,4 +1,4 @@
-module github.com/r3labs/diff/v2
+module github.com/H-M-Cole-MCC-Apparel/diff/v2
 
 go 1.13
 
